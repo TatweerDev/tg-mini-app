@@ -4,7 +4,7 @@ import { Alert } from 'vue-tg'
 
 <template>
   <main>
-    <h1>TG MiniApp</h1>
+    <h1>TG Mini App</h1>
     <Alert message="Hello! welcome to my mini App!" />
   </main>
 </template>
